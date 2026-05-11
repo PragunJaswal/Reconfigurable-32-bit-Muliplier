@@ -98,8 +98,8 @@ This multiplier supports RISC-V M-extension instructions:
 If you use this code in your research or project, please cite the following paper:
 
 ```bibtex
-@article{your_paper_reference,
-  author  = {Pragun Jaswal},
+@article{---,
+  author  = {Pragun Jaswal, L. Hemanth Krishna, Srinivasu Bodapati},
   title   = {A Reconfigurable Multiplier Architecture for Error-Resilient Applications in an RISC-V Core},
   journal = {ISVLSI},
   year    = {2026}
